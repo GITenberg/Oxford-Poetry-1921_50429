@@ -1,0 +1,39 @@
+_repo: Oxford-Poetry-1921_50429
+contributor:
+  creator:
+    editors:
+    - agent_name: Graves, Robert
+      aliases:
+      - Ranke-Graves, Robert von
+      - Doyle, John
+      birthdate: 1895
+      deathdate: 1985
+      gutenberg_agent_id: '628'
+      url: http://www.gutenberg.org/2009/agents/628
+      wikipedia: http://en.wikipedia.org/wiki/Robert_Graves
+    - agent_name: Hughes, Richard Arthur Warren
+      birthdate: 1900
+      deathdate: 1976
+      gutenberg_agent_id: '35251'
+      url: http://www.gutenberg.org/2009/agents/35251
+      wikipedia: http://en.wikipedia.org/wiki/Richard_Hughes_(writer)
+    - agent_name: Porter, Alan
+      gutenberg_agent_id: '45860'
+      url: http://www.gutenberg.org/2009/agents/45860
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2015-11-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '50429'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Oxford Poetry, 1921
+url: http://www.gutenberg.org/ebooks/50429
